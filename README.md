@@ -1,8 +1,11 @@
 # High-Cloud-Airlines
 
-Project: "High clouds Airline Analysis ✈ "
+Project:
+"High clouds Airline Analysis ✈ "
 
-📌 Description: This capstone project provides an in-depth analysis of High Cloud Airlines, aiming to improve the airline’s performance and make operations more efficient. It includes creating three interactive dashboards using Excel, Power BI, and Tableau, as well as using SQL queries to check data accuracy.
+📌 Description:
+
+This capstone project provides an in-depth analysis of High Cloud Airlines, aiming to improve the airline’s performance and make operations more efficient. It includes creating three interactive dashboards using Excel, Power BI, and Tableau, as well as using SQL queries to check data accuracy.
 
 📌 Objective:
 
@@ -11,6 +14,7 @@ Project: "High clouds Airline Analysis ✈ "
 3. Involve investigating load factor
 4. Analyzing popular routes
 5. Identifying top carrier names based on passenger preference
+
 📊 Methods Used:
 
 ✔ Data Cleaning: Imported data from multiple sheets, cleaned it by renaming columns and adjusting data types, and checked for accuracy.
@@ -34,6 +38,7 @@ Project: "High clouds Airline Analysis ✈ "
 4. Display top Routes ( from-to City) based on Number of Flights.
 6. Identify the how much load factor is occupied on Weekend vs Weekdays.
 7. Identify number of flights based on Distance group.
+
 🔎Key Findings:
 
 1. Load factor shows how well an airline is filling its seats compared to competitors. Airlines use it to see where they stand in the market. Airlines rely on load factor for planning routes, managing fleets, and making other strategic decisions.
